@@ -1,0 +1,32 @@
+
+.eightball-box {
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 200px;
+    width: 200px;
+    background-color: snow;
+}
+
+.ball {
+    position: relative;
+    background-color: black;
+    height: 170px;
+    width: 170px;
+    top: 15px;
+    left: 15px;
+    border-radius: 100%;
+}
+
+.ball-text {
+    position: relative;
+    font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    width: 140px;
+    left: 15px;
+    top: 60px;
+    text-align: center;
+    user-select: none;
+}
+
+
